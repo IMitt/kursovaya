@@ -35,7 +35,7 @@ body {
 }
 
 .sign-section__wrapper {
-  background-image: url(/img/signGradiant.png);
+  background-image: url(img/signGradiant.png);
   min-height: calc(100vh - 70px);
   background-position: center;
   background-repeat: no-repeat;
